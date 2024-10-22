@@ -1,8 +1,7 @@
-import React from 'react'
 import { createBrowserRouter } from 'react-router-dom'
 
-import { Dashboard } from './src/pages/auth/app/dashboard'
-import { SignIn } from './src/pages/auth/sign-in'
+import { Dashboard } from './pages/auth/app/dashboard'
+import { SignIn } from './pages/auth/sign-in'
 
 export const router = createBrowserRouter([
   { path: '/', element: <Dashboard /> },
