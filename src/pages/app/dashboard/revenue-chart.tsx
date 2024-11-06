@@ -19,7 +19,9 @@ import {
 const data = [
   { date: '10/12', revenue: 1200 },
   { date: '11/12', revenue: 1850 },
-  { date: '12/12', revenue: 400 },
+  { date: '12/12', revenue: 4000 },
+  { date: '13/12', revenue: 4050 },
+  { date: '14/12', revenue: 625 },
   { date: '15/12', revenue: 1580 },
   { date: '16/12', revenue: 580 },
 ]
